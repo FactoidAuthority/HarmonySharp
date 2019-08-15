@@ -1,6 +1,7 @@
-#HarmonySharp API DLL
+# HarmonySharp API DLL
 ### An Open Source .NET implementation of the Harmony Connect API written in C#.
 
+You can learn more about Factom Harmony Connect [here](https://docs.harmony.factom.com/).
 
 ##### Depends on:
 
@@ -8,7 +9,7 @@
 * RestSharp
 
 
-NOTE: As this was developed conjunction with the IOT-SAS.tech board, the Identity API has not been tested.
+NOTE: As this was developed conjunction with the [IOT-SAS.tech](https://iot-sas.tech) board which takes care of identity, the identity API has not been tested.
 
 NuGet package is available.
 
